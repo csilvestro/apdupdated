@@ -1,6 +1,7 @@
 # GitHub Terms
-## This repo is for additional help. 
-### GitHub Key terms
+### This repo is for additional help. 
+:old_key:
+**GitHub Key terms**
 1. Copy your repo to your desktop, in terminal type: git clone yoururl
 2. Create a new branch, in terminal type: git checkout -b dev
 3. Switch branches, in terminal type: git checkout branchname
@@ -12,12 +13,14 @@
 9. Delete branch Local: git branch -d my-branch
 10. Check Branches: git branch
 
-//# Merge changes - make sure you are on new branch
+**Merge changes - make sure you are on new branch**
+```
 git merge my-branch
 Or
 git push <branch with new changes>:<branch you are pushing to>
 
 git push origin dev:master
 git push origin branch:master
+```
 
 ![Git Cheat Sheet](/images/gitcheatsheet.JPG)

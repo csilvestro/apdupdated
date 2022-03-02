@@ -1,4 +1,4 @@
-# :old_key:GitHub Key terms
+# :old_key: GitHub Key terms
 1. Copy your repo to your desktop, in terminal type: **git clone yoururl**
 2. Create a new branch, in terminal type: **git checkout -b dev**
 3. Switch branches, in terminal type: **git checkout branchname**

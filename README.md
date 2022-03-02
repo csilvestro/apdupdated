@@ -3,7 +3,7 @@
 We will be practicing the basics of JavaScript. Module 1 will discuss api's and github.
 
 [:old_key: GitHub Key terms](/Github.md)
-**Branches**
+### Branches
 main - module 1 information
 
 

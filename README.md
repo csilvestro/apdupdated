@@ -2,8 +2,7 @@
 
 We will be practicing the basics of JavaScript. Module 1 will discuss api's and github.
 
-###### old_key:GitHub Key terms
-[GitHub Helpful Terms](/Github.md)
+[:old_key:GitHub Key terms](/Github.md)
 
 ###### Branches
 01_FetchAPI

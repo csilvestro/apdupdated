@@ -42,21 +42,6 @@ function getMovie(){
 getMovie();
 ```
 
-**Fetch - Advanced Error Syntax**
-```
-function getMovie(){
-    fetch('http://example.com/movies.json')
-        .then(response => response.json())
-        .then(data => 
-            console.log(data)
-            displayMovie(data)
-        );
-        .catch(err => console.log("This is an error", err);
-}
-getMovie();
-```
-
-
 **Display API Information in the HTML**
 ```
 function displayMovie(data){

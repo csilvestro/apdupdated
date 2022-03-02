@@ -1,11 +1,11 @@
 # APD Updated - March Term
 
-### This repo is for additional help. 
+We will be practicing the basics of JavaScript. Module 1 will discuss api's and github.
 
-**:old_key:GitHub Key terms**
+###### old_key:GitHub Key terms
 [GitHub Helpful Terms](/Github.md)
 
-**Branches**
+###### Branches
 01_FetchAPI
 dev - my working branch
 

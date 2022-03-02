@@ -1,7 +1,5 @@
-# apdupdated
-
+# GitHub Terms
 ## This repo is for additional help. 
-
 ### GitHub Key terms
 1. Copy your repo to your desktop, in terminal type: git clone yoururl
 2. Create a new branch, in terminal type: git checkout -b dev

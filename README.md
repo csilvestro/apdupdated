@@ -39,7 +39,9 @@ function getMovie(){
         .catch(err => console.log("This is an error", err);
 }
 getMovie();
+```
 or
+```
 const getMovie = () => {
     fetch('http://example.com/movies.json')
         .then(response => response.json())
@@ -57,7 +59,9 @@ getMovie();
 function displayMovie(data){
     //Your code here
 };
+```
 Or
+```
 const displayMovie = data => {
     //Your code here
 };

@@ -7,7 +7,8 @@ We will be practicing the basics of JavaScript. Module 1 will discuss api's and 
 * main - module 1 information
 * practice - practice your Github skills
 
-**IEEFY - This branch contains an example of usinge the IEEFY methodology.**
+**IIFE - This branch contains an example of usinge the IIFE methodology.**
+*Function expressions that are invoked as soon as the function is declared.
 ```
 (() => {
     //Write functions here

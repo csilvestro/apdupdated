@@ -8,9 +8,6 @@ We will be practicing the basics of JavaScript. Module 1 will discuss api's and 
 * practice - practice your Github skills
 
 **IIFE - This branch contains an example of usinge the IIFE methodology.**
-
-
-*Function expressions that are invoked as soon as the function is declared.
 ```
 (() => {
     //Write functions here
